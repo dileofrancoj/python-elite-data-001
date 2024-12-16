@@ -1,0 +1,407 @@
+,survey_timestamp,gender,high_school_gpa,year_of_study_2023,faculty,gpa_2023,accommodation_status_2023,scholarship_2023,additional_study_hours,How often do you go out partying/socialising during the week? ,alcohol_consumption_per_outing,alcohol_related_absences,failed_modules,in_a_relationship,parental_approval_of_alcohol,parent_relationship_strength
+0,2024/03/07 5:12:01 pm EET,Female,76.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,8+,3,0,Yes,Yes,Very close
+1,2024/03/07 5:12:08 pm EET,Male,89.0,2nd Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,3-5,4+,0,No,Yes,Very close
+2,2024/03/07 5:12:25 pm EET,Male,76.0,1st Year,AgriSciences,55.0,Private accommodation/ stay with family/friends,No,3-5,2,8+,3,0,No,Yes,Very close
+3,2024/03/07 5:12:28 pm EET,Male,89.0,2nd Year,Engineering,84.0,Private accommodation/ stay with family/friends,No,3-5,3,8+,2,0,Yes,Yes,Very close
+4,2024/03/07 5:13:00 pm EET,Female,74.0,2nd Year,Arts & Social Sciences,52.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,5-8,1,3,No,Yes,Fair
+5,2024/03/07 5:13:18 pm EET,Male,83.0,,Engineering,,Private accommodation/ stay with family/friends,No,8+,4+,3-5,3,1,Yes,Yes,Very close
+6,2024/03/07 5:13:22 pm EET,Male,80.0,2nd Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,No,8+,2,5-8,1,0,No,Yes,Very close
+7,2024/03/07 5:13:26 pm EET,Female,85.0,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,No,3-5,3,3-5,2,0,Yes,Yes,Very close
+8,2024/03/07 5:13:28 pm EET,Male,89.0,,Engineering,,,No,8+,Only weekends,3-5,0,,No,Yes,Very close
+9,2024/03/07 5:13:35 pm EET,Male,83.0,,Science,,,No,3-5,3,5-8,4+,0,No,Yes,Close
+10,2024/03/07 5:14:04 pm EET,Female,75.0,,AgriSciences,,,No,5-8,2,5-8,0,0,No,Yes,Close
+11,2024/03/07 5:14:06 pm EET,Female,80.0,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,No,8+,3,8+,0,0,No,Yes,Close
+12,2024/03/07 5:14:08 pm EET,Male,79.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,2,4+,No,Yes,Very close
+13,2024/03/07 5:14:10 pm EET,Female,72.0,2nd Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,No,1-3,1,3-5,0,0,Yes,Yes,Very close
+14,2024/03/07 5:14:35 pm EET,Male,78.0,,Science,,,,3-5,2,5-8,0,0,No,Yes,Very close
+15,2024/03/07 5:14:43 pm EET,Female,87.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+16,2024/03/07 5:14:50 pm EET,Female,86.0,,Engineering,,Private accommodation/ stay with family/friends,No,3-5,1,3-5,0,0,No,Yes,Fair
+17,2024/03/07 5:14:51 pm EET,Male,74.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,1-3,4+,5-8,0,0,Yes,Yes,Very close
+18,2024/03/07 5:15:05 pm EET,Female,83.0,,Medicine and Health Services,,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,Yes,Yes,Very close
+19,2024/03/07 5:15:08 pm EET,Male,69.0,2nd Year,Arts & Social Sciences,55.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,3,3,No,Yes,Very close
+20,2024/03/07 5:15:13 pm EET,Male,79.0,2nd Year,Economic & Management Sciences,54.0,Non-private accommodation ie. Res,No,5-8,2,0,0,1,No,Yes,Fair
+21,2024/03/07 5:15:43 pm EET,Male,80.0,2nd Year,Engineering,62.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,2,No,Yes,Very close
+22,2024/03/07 5:15:47 pm EET,Female,73.0,2nd Year,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,1-3,Only weekends,1-3,0,2,No,No,Very close
+23,2024/03/07 5:16:06 pm EET,Female,83.0,2nd Year,Law,55.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,3-5,2,4+,No,Yes,Very close
+24,2024/03/07 5:16:35 pm EET,Female,78.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,No,8+,2,3-5,2,0,No,Yes,Very close
+25,2024/03/07 5:16:56 pm EET,Male,74.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,No,3-5,2,8+,2,2,No,Yes,Very close
+26,2024/03/07 5:17:06 pm EET,Male,83.0,3rd Year,Engineering,69.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,Yes,Yes,Very close
+27,2024/03/07 5:17:09 pm EET,Male,79.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,8+,1,3,No,Yes,Very close
+28,2024/03/07 5:17:22 pm EET,Female,83.0,2nd Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,No,8+,Only weekends,1-3,0,1,No,Yes,Very close
+29,2024/03/07 5:17:28 pm EET,Female,79.0,1st Year,Economic & Management Sciences,74.0,Private accommodation/ stay with family/friends,No,3-5,3,5-8,0,0,No,Yes,Very close
+30,2024/03/07 5:17:39 pm EET,Male,87.0,2nd Year,Engineering,70.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,0,0,No,Yes,Very close
+31,2024/03/07 5:18:18 pm EET,Male,84.0,1st Year,Engineering,60.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,0,No,Yes,Very close
+32,2024/03/07 5:18:41 pm EET,Male,84.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,0,No,Yes,Close
+33,2024/03/07 5:18:56 pm EET,Male,86.0,2nd Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,No,5-8,1,5-8,2,1,Yes,Yes,Very close
+34,2024/03/07 5:19:16 pm EET,Female,80.0,2nd Year,Science,75.0,Private accommodation/ stay with family/friends,No,8+,1,3-5,0,1,Yes,Yes,Very close
+35,2024/03/07 5:19:55 pm EET,Male,80.0,1st Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,3-5,0,8+,2,0,No,Yes,Very close
+36,2024/03/07 5:19:56 pm EET,Male,78.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,5-8,2,5-8,2,0,No,Yes,Very close
+37,2024/03/07 5:20:04 pm EET,Male,73.0,1st Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,No,5-8,1,8+,2,3,Yes,Yes,Close
+38,2024/03/07 5:20:31 pm EET,Male,99.0,2nd Year,Economic & Management Sciences,90.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,3,4+,No,Yes,Very close
+39,2024/03/07 5:20:48 pm EET,Female,82.6,2nd Year,Arts & Social Sciences,75.0,Private accommodation/ stay with family/friends,No,8+,3,1-3,0,0,Yes,Yes,Close
+40,2024/03/07 5:20:52 pm EET,Female,78.0,1st Year,Economic & Management Sciences,78.0,Private accommodation/ stay with family/friends,No,1-3,3,5-8,2,0,Yes,Yes,Close
+41,2024/03/07 5:20:55 pm EET,Female,65.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,No,3-5,1,3-5,2,4+,Yes,Yes,Very close
+42,2024/03/07 5:20:57 pm EET,Male,84.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,1-3,1,8+,4+,0,Yes,Yes,Very close
+43,2024/03/07 5:21:41 pm EET,Female,83.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,Only weekends,1-3,0,0,No,Yes,Close
+44,2024/03/07 5:22:13 pm EET,Female,80.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,Only weekends,1-3,0,0,Yes,Yes,Very close
+45,2024/03/07 5:22:34 pm EET,Female,80.0,,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,3-5,2,3-5,2,0,Yes,Yes,Very close
+46,2024/03/07 5:22:36 pm EET,Male,81.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,0,3,Yes,Yes,Very close
+47,2024/03/07 5:22:40 pm EET,Male,76.0,1st Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,No,3-5,1,1-3,0,0,Yes,Yes,Very close
+48,2024/03/07 5:22:44 pm EET,Male,76.0,2nd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,8+,0,5-8,0,0,Yes,Yes,Close
+49,2024/03/07 5:22:59 pm EET,Female,88.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,1-3,1,1-3,0,1,Yes,Yes,Very close
+50,2024/03/07 5:23:11 pm EET,Male,75.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,1,2,No,Yes,Close
+51,2024/03/07 5:23:15 pm EET,Male,70.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,1,3-5,0,0,No,Yes,Close
+52,2024/03/07 5:24:22 pm EET,Female,70.0,1st Year,Economic & Management Sciences,,Non-private accommodation ie. Res,No,3-5,2,3-5,2,0,Yes,No,Very close
+53,2024/03/07 5:24:55 pm EET,Male,84.0,1st Year,Science,74.0,Non-private accommodation ie. Res,No,1-3,1,1-3,0,0,No,Yes,Close
+54,2024/03/07 5:25:13 pm EET,Male,98.0,1st Year,Engineering,89.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,Only weekends,8+,0,4+,Yes,No,Distant
+55,2024/03/07 5:26:08 pm EET,Male,72.0,2nd Year,Arts & Social Sciences,76.0,Private accommodation/ stay with family/friends,No,1-3,1,1-3,0,0,Yes,Yes,Close
+56,2024/03/07 5:26:12 pm EET,Female,84.0,1st Year,Medicine and Health Services,80.0,Non-private accommodation ie. Res,No,8+,Only weekends,5-8,2,0,No,Yes,Very close
+57,2024/03/07 5:26:29 pm EET,Male,85.0,2nd Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,1,8+,4+,0,Yes,Yes,Fair
+58,2024/03/07 5:28:19 pm EET,Female,84.0,1st Year,Medicine and Health Services,80.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,3-5,0,0,No,Yes,Very close
+59,2024/03/07 5:28:30 pm EET,Female,90.0,2nd Year,Law,70.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,0,3,No,Yes,Very close
+60,2024/03/07 5:30:10 pm EET,Female,72.0,3rd Year,Education,65.0,Private accommodation/ stay with family/friends,No,3-5,2,5-8,0,1,No,Yes,Very close
+61,2024/03/07 5:30:18 pm EET,Female,78.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,No,5-8,3,3-5,2,0,No,Yes,Close
+62,2024/03/07 5:31:19 pm EET,Female,83.0,2nd Year,Engineering,63.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,No,Yes,Close
+63,2024/03/07 5:31:56 pm EET,Female,85.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,0,0,Yes,Yes,Very close
+64,2024/03/07 5:34:04 pm EET,Female,81.0,2nd Year,,65.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,3-5,1,1,No,Yes,Very close
+65,2024/03/07 5:35:49 pm EET,Female,84.0,1st Year,Science,75.0,Private accommodation/ stay with family/friends,No,8+,1,3-5,3,0,Yes,Yes,Very close
+66,2024/03/07 5:36:14 pm EET,Male,76.0,2nd Year,Science,65.0,Private accommodation/ stay with family/friends,No,8+,1,0,0,0,Yes,Yes,Very close
+67,2024/03/07 5:36:30 pm EET,Female,80.0,2nd Year,Engineering,61.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,,0,Yes,Yes,Close
+68,2024/03/07 5:36:45 pm EET,Female,73.0,,Arts & Social Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,2,1-3,0,0,No,Yes,Very close
+69,2024/03/07 5:37:16 pm EET,Male,85.0,4th Year,AgriSciences,76.0,Private accommodation/ stay with family/friends,No,5-8,2,8+,0,0,Yes,Yes,Very close
+70,2024/03/07 5:37:18 pm EET,Female,84.0,2nd Year,Science,65.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",5-8,1,1-3,0,0,Yes,Yes,Very close
+71,2024/03/07 5:39:13 pm EET,Male,85.0,1st Year,Arts & Social Sciences,58.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,5-8,2,0,No,Yes,Very close
+72,2024/03/07 5:39:33 pm EET,Female,75.0,2nd Year,Arts & Social Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,Only weekends,1-3,0,2,Yes,,Very close
+73,2024/03/07 5:39:33 pm EET,Female,98.33,2nd Year,Economic & Management Sciences,95.22,Non-private accommodation ie. Res,No,8+,1,0,0,0,No,Yes,Close
+74,2024/03/07 5:41:22 pm EET,Female,70.0,1st Year,AgriSciences,60.0,Private accommodation/ stay with family/friends,No,5-8,3,1-3,0,1,No,No,Very close
+75,2024/03/07 5:41:41 pm EET,Male,75.0,2nd Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,0,2,Yes,Yes,Very close
+76,2024/03/07 5:43:23 pm EET,Female,76.0,2nd Year,Law,60.0,,No,1-3,3,5-8,2,0,No,Yes,Very close
+77,2024/03/07 5:43:24 pm EET,Female,87.0,,Science,,,,8+,Only weekends,1-3,0,0,No,Yes,Very close
+78,2024/03/07 5:43:30 pm EET,Male,75.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,No,3-5,2,8+,0,0,Yes,No,Very close
+79,2024/03/07 5:45:25 pm EET,Male,86.0,3rd Year,AgriSciences,55.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,1,8+,1,3,No,Yes,Very close
+80,2024/03/07 5:45:25 pm EET,Female,80.0,3rd Year,Medicine and Health Services,71.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+81,2024/03/07 5:46:41 pm EET,Female,75.0,3rd Year,Arts & Social Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,1,8+,0,0,Yes,Yes,Very close
+82,2024/03/07 5:46:44 pm EET,Female,75.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,5-8,1,5-8,3,0,No,Yes,Very close
+83,2024/03/07 5:47:22 pm EET,Female,80.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,1,Yes,Yes,Very close
+84,2024/03/07 5:48:23 pm EET,Female,75.0,3rd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,1,No,Yes,Very close
+85,2024/03/07 5:48:53 pm EET,Female,85.0,3rd Year,Science,84.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",8+,2,5-8,0,0,Yes,Yes,Very close
+86,2024/03/07 5:49:47 pm EET,Female,79.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,5-8,1,5-8,1,2,No,Yes,Very close
+87,2024/03/07 5:50:11 pm EET,Male,,3rd Year,Medicine and Health Services,61.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",1-3,Only weekends,3-5,0,1,No,Yes,Very close
+88,2024/03/07 5:50:14 pm EET,Female,78.0,2nd Year,Law,66.0,Private accommodation/ stay with family/friends,No,3-5,1,5-8,3,1,No,Yes,Very close
+89,2024/03/07 5:50:23 pm EET,Male,65.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,1,0,No,Yes,Very close
+90,2024/03/07 5:51:04 pm EET,Female,82.0,2nd Year,Engineering,53.0,Private accommodation/ stay with family/friends,No,5-8,1,5-8,2,4+,No,Yes,Very close
+91,2024/03/07 5:51:05 pm EET,Female,77.0,1st Year,AgriSciences,62.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,0,0,No,Yes,Very close
+92,2024/03/07 5:54:33 pm EET,Female,85.0,2nd Year,Science,65.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,3,0,No,Yes,Very close
+93,2024/03/07 5:54:41 pm EET,Female,81.0,3rd Year,Arts & Social Sciences,62.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,1,1,Yes,Yes,Close
+94,2024/03/07 5:54:53 pm EET,Male,77.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,No,8+,2,8+,1,1,No,Yes,Very close
+95,2024/03/07 5:55:01 pm EET,Male,82.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,8+,1,0,No,Yes,Fair
+96,2024/03/07 5:55:23 pm EET,Female,73.0,3rd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,3-5,3,5-8,1,0,No,Yes,Close
+97,2024/03/07 5:55:49 pm EET,Male,68.0,,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,3-5,1,8+,0,0,No,Yes,Very close
+98,2024/03/07 5:57:46 pm EET,Male,70.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,3-5,1,3-5,0,0,Yes,Yes,Very close
+99,2024/03/07 5:58:30 pm EET,Male,75.0,3rd Year,AgriSciences,64.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,1,0,No,Yes,Very close
+100,2024/03/07 5:59:04 pm EET,Male,78.0,2nd Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,1,1,No,Yes,Very close
+101,2024/03/07 5:59:28 pm EET,Female,73.0,1st Year,Arts & Social Sciences,69.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,0,0,Yes,Yes,Very close
+102,2024/03/07 5:59:33 pm EET,Male,74.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,2,1,No,No,Fair
+103,2024/03/07 6:00:19 pm EET,Male,77.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,Yes,No,Very close
+104,2024/03/07 6:00:33 pm EET,Male,66.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,8+,3,8+,0,0,Yes,Yes,Very close
+105,2024/03/07 6:00:45 pm EET,Male,80.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,No,0,1,0,4+,0,Yes,Yes,Very close
+106,2024/03/07 6:01:01 pm EET,Female,78.0,1st Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,Only weekends,5-8,2,3,Yes,No,Very close
+107,2024/03/07 6:02:13 pm EET,Male,75.0,1st Year,Science,50.0,Non-private accommodation ie. Res,No,8+,Only weekends,3-5,0,3,No,No,
+108,2024/03/07 6:02:13 pm EET,Male,72.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,0,1,8+,0,0,No,Yes,Fair
+109,2024/03/07 6:03:28 pm EET,Male,80.0,3rd Year,Science,65.0,Private accommodation/ stay with family/friends,No,5-8,1,3-5,0,1,Yes,Yes,Close
+110,2024/03/07 6:03:46 pm EET,Male,75.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,No,0,Only weekends,8+,4+,0,No,Yes,Close
+111,2024/03/07 6:04:29 pm EET,Female,73.0,2nd Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,No,8+,2,3-5,1,2,Yes,Yes,Very close
+112,2024/03/07 6:04:36 pm EET,Female,86.0,3rd Year,Science,76.0,Private accommodation/ stay with family/friends,No,5-8,1,5-8,1,0,No,Yes,Close
+113,2024/03/07 6:04:52 pm EET,Male,70.0,1st Year,AgriSciences,75.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,0,0,Yes,Yes,Very close
+114,2024/03/07 6:05:33 pm EET,Female,83.0,1st Year,Economic & Management Sciences,,,No,1-3,Only weekends,5-8,0,0,Yes,Yes,Fair
+115,2024/03/07 6:05:33 pm EET,Female,84.0,,Economic & Management Sciences,,,,0,3,5-8,0,0,No,Yes,Close
+116,2024/03/07 6:05:57 pm EET,Male,85.0,1st Year,Science,88.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,0,0,0,Yes,Yes,Distant
+117,2024/03/07 6:06:00 pm EET,Female,72.0,2nd Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,0,Yes,Yes,Very close
+118,2024/03/07 6:06:21 pm EET,Male,73.0,1st Year,Economic & Management Sciences,52.0,Private accommodation/ stay with family/friends,No,3-5,2,1-3,1,4+,No,Yes,Very close
+119,2024/03/07 6:07:35 pm EET,Female,76.0,Postgraduate,Economic & Management Sciences,79.0,Private accommodation/ stay with family/friends,No,5-8,2,1-3,0,0,No,Yes,Very close
+120,2024/03/07 6:08:05 pm EET,Male,76.0,1st Year,Engineering,56.0,Non-private accommodation ie. Res,No,8+,Only weekends,1-3,0,0,Yes,Yes,Close
+121,2024/03/07 6:08:50 pm EET,Male,82.0,2nd Year,Arts & Social Sciences,70.0,Non-private accommodation ie. Res,No,1-3,2,8+,4+,0,Yes,Yes,Close
+122,2024/03/07 6:10:05 pm EET,Male,82.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,0,0,No,Yes,Very close
+123,2024/03/07 6:11:08 pm EET,Male,68.0,2nd Year,AgriSciences,57.0,Private accommodation/ stay with family/friends,No,3-5,1,5-8,1,3,Yes,No,Close
+124,2024/03/07 6:11:14 pm EET,Female,84.0,1st Year,Science,64.0,Private accommodation/ stay with family/friends,No,1-3,2,3-5,1,0,No,Yes,Very close
+125,2024/03/07 6:11:21 pm EET,Male,79.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,2,2,No,No,Close
+126,2024/03/07 6:11:41 pm EET,Male,89.0,2nd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,No,3-5,1,3-5,0,0,No,Yes,Very close
+127,2024/03/07 6:12:43 pm EET,Female,82.0,2nd Year,Education,73.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,5-8,0,0,Yes,Yes,Close
+128,2024/03/07 6:12:47 pm EET,Female,83.0,2nd Year,Economic & Management Sciences,51.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,4+,Yes,Yes,Fair
+129,2024/03/07 6:15:14 pm EET,Male,76.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,3,8+,2,0,No,Yes,Very close
+130,2024/03/07 6:15:31 pm EET,Male,83.0,2nd Year,Engineering,60.0,Non-private accommodation ie. Res,No,5-8,3,5-8,4+,1,No,Yes,Very close
+131,2024/03/07 6:15:48 pm EET,Female,76.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,3-5,3,5-8,2,2,No,Yes,Very close
+132,2024/03/07 6:16:12 pm EET,Male,82.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,0,0,0,0,No,No,Close
+133,2024/03/07 6:16:51 pm EET,Female,76.0,1st Year,Arts & Social Sciences,54.0,Private accommodation/ stay with family/friends,No,1-3,4+,5-8,4+,3,Yes,Yes,Very close
+134,2024/03/07 6:19:15 pm EET,Male,78.0,1st Year,Science,65.0,Non-private accommodation ie. Res,No,1-3,Only weekends,0,0,2,No,Yes,Very close
+135,2024/03/07 6:23:51 pm EET,Male,79.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,3,3,Yes,Yes,Very close
+136,2024/03/07 6:23:58 pm EET,Female,72.0,1st Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,No,3-5,1,0,0,1,No,Yes,Very close
+137,2024/03/07 6:25:59 pm EET,Male,65.0,,Science,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,2,8+,1,0,No,Yes,Very close
+138,2024/03/07 6:26:53 pm EET,Male,70.0,Postgraduate,AgriSciences,68.0,Private accommodation/ stay with family/friends,No,1-3,3,3-5,2,0,No,Yes,Very close
+139,2024/03/07 6:27:21 pm EET,Male,72.0,2nd Year,Economic & Management Sciences,53.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,8+,0,4+,Yes,Yes,Close
+140,2024/03/07 6:28:20 pm EET,Female,74.0,1st Year,Economic & Management Sciences,73.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",3-5,1,3-5,0,0,Yes,No,Close
+141,2024/03/07 6:28:39 pm EET,Female,76.0,1st Year,Economic & Management Sciences,50.0,Non-private accommodation ie. Res,No,0,Only weekends,5-8,0,4+,Yes,Yes,Very close
+142,2024/03/07 6:33:23 pm EET,Female,81.0,1st Year,AgriSciences,64.0,Private accommodation/ stay with family/friends,No,1-3,1,5-8,1,0,No,No,Close
+143,2024/03/07 6:34:12 pm EET,Female,85.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,8+,2,1-3,4+,0,Yes,Yes,Very close
+144,2024/03/07 6:34:17 pm EET,Female,85.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,8+,2,1-3,4+,0,Yes,Yes,Very close
+145,2024/03/07 6:37:49 pm EET,Female,80.0,2nd Year,Economic & Management Sciences,50.0,Private accommodation/ stay with family/friends,No,5-8,1,1-3,0,1,Yes,Yes,Very close
+146,2024/03/07 6:39:00 pm EET,Female,84.0,2nd Year,Economic & Management Sciences,68.0,Private accommodation/ stay with family/friends,No,5-8,3,3-5,1,0,No,Yes,Very close
+147,2024/03/07 6:42:55 pm EET,Male,69.0,4th Year,AgriSciences,65.0,Private accommodation/ stay with family/friends,No,5-8,2,8+,2,2,No,Yes,Very close
+148,2024/03/07 6:43:25 pm EET,Male,76.0,4th Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,No,1-3,1,5-8,0,0,No,Yes,Very close
+149,2024/03/07 6:44:27 pm EET,Female,78.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,2,1,No,Yes,Close
+150,2024/03/07 6:46:11 pm EET,Male,72.0,3rd Year,AgriSciences,60.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,Only weekends,5-8,2,4+,No,Yes,Close
+151,2024/03/07 6:56:36 pm EET,Female,88.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,1,0,Yes,Yes,Fair
+152,2024/03/07 6:56:38 pm EET,Female,92.0,3rd Year,Science,70.0,Private accommodation/ stay with family/friends,No,3-5,4+,8+,2,0,No,Yes,Very close
+153,2024/03/07 6:59:23 pm EET,Female,85.0,,Arts & Social Sciences,,,No,1-3,1,3-5,0,0,No,No,Close
+154,2024/03/07 7:02:56 pm EET,Male,74.0,3rd Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,No,3-5,1,8+,1,0,Yes,Yes,Very close
+155,2024/03/07 7:03:36 pm EET,Male,78.0,2nd Year,AgriSciences,60.0,Non-private accommodation ie. Res,No,0,3,8+,4+,0,No,Yes,Close
+156,2024/03/07 7:07:32 pm EET,Female,90.0,1st Year,Economic & Management Sciences,75.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",3-5,Only weekends,1-3,0,1,No,Yes,Close
+157,2024/03/07 7:09:17 pm EET,Male,84.0,2nd Year,Economic & Management Sciences,68.0,Non-private accommodation ie. Res,No,1-3,4+,5-8,0,0,No,Yes,Close
+158,2024/03/07 7:12:26 pm EET,Female,91.86,2nd Year,Economic & Management Sciences,65.89,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,0,0,0,1,No,No,Very close
+159,2024/03/07 7:14:33 pm EET,Male,80.0,4th Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,2,Yes,Yes,Very close
+160,2024/03/07 7:15:06 pm EET,Male,71.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,8+,2,2,Yes,Yes,Very close
+161,2024/03/07 7:18:00 pm EET,Female,80.0,2nd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,3-5,1,1-3,1,0,Yes,No,Very close
+162,2024/03/07 7:18:59 pm EET,Female,75.0,2nd Year,Arts & Social Sciences,80.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,5-8,0,0,No,Yes,Close
+163,2024/03/07 7:19:12 pm EET,Female,69.0,,Economic & Management Sciences,,,No,3-5,1,1-3,0,0,Yes,Yes,Very close
+164,2024/03/07 7:21:59 pm EET,Male,82.0,2nd Year,Economic & Management Sciences,69.0,Non-private accommodation ie. Res,No,0,4+,8+,0,0,No,No,Very close
+165,2024/03/07 7:23:00 pm EET,Female,80.0,2nd Year,Arts & Social Sciences,70.0,Private accommodation/ stay with family/friends,No,8+,3,3-5,4+,0,Yes,Yes,Very close
+166,2024/03/07 7:33:31 pm EET,Female,74.0,,Science,,Private accommodation/ stay with family/friends,No,8+,2,1-3,0,0,No,Yes,Very close
+167,2024/03/07 7:35:56 pm EET,Male,73.0,2nd Year,Economic & Management Sciences,73.5,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,Yes,Yes,Very close
+168,2024/03/07 7:41:48 pm EET,Male,74.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,1,1-3,0,0,No,Yes,Very close
+169,2024/03/07 7:45:38 pm EET,Female,84.0,2nd Year,Science,70.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,0,0,Yes,Yes,Very close
+170,2024/03/07 7:53:26 pm EET,Male,63.0,1st Year,Economic & Management Sciences,68.0,Private accommodation/ stay with family/friends,No,3-5,3,8+,1,0,No,Yes,Close
+171,2024/03/07 7:53:39 pm EET,Female,73.0,,Economic & Management Sciences,,,No,1-3,1,5-8,0,0,No,Yes,Very close
+172,2024/03/07 7:54:01 pm EET,Male,78.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,1,5-8,3,0,No,Yes,Very close
+173,2024/03/07 7:54:43 pm EET,Female,74.0,3rd Year,AgriSciences,63.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,Only weekends,0,0,0,No,No,Close
+174,2024/03/07 7:54:47 pm EET,Female,79.0,1st Year,Education,77.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,3,1-3,0,0,No,Yes,Very close
+175,2024/03/07 7:54:54 pm EET,Female,81.0,2nd Year,Science,70.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,1,No,No,Very close
+176,2024/03/07 7:55:07 pm EET,Female,82.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,2,1-3,0,4+,No,Yes,Very close
+177,2024/03/07 7:55:47 pm EET,Female,75.0,3rd Year,Economic & Management Sciences,50.0,Private accommodation/ stay with family/friends,No,0,Only weekends,3-5,0,4+,Yes,Yes,Very close
+178,2024/03/07 8:02:29 pm EET,Female,,1st Year,Science,60.0,Private accommodation/ stay with family/friends,No,3-5,2,0,1,1,No,Yes,Very close
+179,2024/03/07 8:06:35 pm EET,Female,72.0,1st Year,Arts & Social Sciences,73.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,5-8,0,0,No,Yes,Close
+180,2024/03/07 8:07:03 pm EET,Male,79.0,,Engineering,,,,3-5,0,0,0,0,No,Yes,Close
+181,2024/03/07 8:07:03 pm EET,Female,70.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,3,0,0,1,Yes,Yes,Fair
+182,2024/03/07 8:07:15 pm EET,Female,86.0,2nd Year,Science,75.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,0,0,No,Yes,Fair
+183,2024/03/07 8:10:53 pm EET,Male,76.0,1st Year,AgriSciences,62.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,3,0,No,Yes,Very close
+184,2024/03/07 8:11:46 pm EET,Male,80.0,1st Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,No,8+,3,5-8,3,0,No,Yes,Fair
+185,2024/03/07 8:13:02 pm EET,Male,76.0,3rd Year,Science,62.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,1,3,Yes,No,Fair
+186,2024/03/07 8:14:46 pm EET,Male,75.0,1st Year,Science,60.0,Private accommodation/ stay with family/friends,No,5-8,3,8+,3,2,No,Yes,Very close
+187,2024/03/07 8:16:42 pm EET,Female,83.0,3rd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,1,Yes,Yes,Very close
+188,2024/03/07 8:17:11 pm EET,Female,70.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,8+,2,5-8,1,0,Yes,Yes,Very close
+189,2024/03/07 8:21:30 pm EET,Female,70.0,1st Year,Science,57.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,1-3,0,1,Yes,Yes,Very close
+190,2024/03/07 8:23:39 pm EET,Female,81.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,2,3-5,0,0,No,Yes,Very close
+191,2024/03/07 8:25:15 pm EET,Male,86.0,,Engineering,,Private accommodation/ stay with family/friends,No,8+,0,5-8,1,0,Yes,Yes,Very close
+192,2024/03/07 8:25:17 pm EET,Male,75.0,2nd Year,Science,50.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,3-5,0,4+,Yes,Yes,Close
+193,2024/03/07 8:25:25 pm EET,Male,83.0,2nd Year,Economic & Management Sciences,51.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,3-5,0,4+,Yes,Yes,Very close
+194,2024/03/07 8:31:09 pm EET,Female,77.0,1st Year,AgriSciences,,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+195,2024/03/07 8:35:19 pm EET,Male,92.0,4th Year,Economic & Management Sciences,88.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+196,2024/03/07 8:41:19 pm EET,Male,72.0,1st Year,Economic & Management Sciences,54.0,Private accommodation/ stay with family/friends,No,1-3,3,8+,4+,3,No,Yes,Very close
+197,2024/03/07 8:44:24 pm EET,Female,83.0,1st Year,Science,68.0,Private accommodation/ stay with family/friends,No,5-8,3,1-3,0,0,No,Yes,Very close
+198,2024/03/07 8:52:04 pm EET,Male,79.0,2nd Year,Economic & Management Sciences,59.0,Non-private accommodation ie. Res,No,8+,1,5-8,0,3,No,Yes,Very close
+199,2024/03/07 8:54:01 pm EET,Male,83.0,1st Year,Economic & Management Sciences,,Non-private accommodation ie. Res,No,1-3,2,5-8,0,0,No,Yes,Close
+200,2024/03/07 8:55:37 pm EET,Male,67.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,2,0,No,Yes,Close
+201,2024/03/07 8:55:40 pm EET,Male,67.0,1st Year,Economic & Management Sciences,77.0,Non-private accommodation ie. Res,No,5-8,2,8+,0,0,No,Yes,Very close
+202,2024/03/07 8:55:47 pm EET,Female,71.0,1st Year,Economic & Management Sciences,62.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,1,No,Yes,Very close
+203,2024/03/07 8:56:01 pm EET,Female,60.0,1st Year,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,Only weekends,0,0,1,No,No,Close
+204,2024/03/07 8:57:08 pm EET,Male,78.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,3-5,0,0,0,1,No,No,Very close
+205,2024/03/07 8:57:17 pm EET,Female,83.0,1st Year,Economic & Management Sciences,84.0,Private accommodation/ stay with family/friends,No,0,2,0,0,0,Yes,Yes,Fair
+206,2024/03/07 8:57:29 pm EET,Female,76.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,3-5,0,1,No,Yes,Very close
+207,2024/03/07 8:57:39 pm EET,Female,75.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,0,3,8+,1,0,Yes,Yes,Very close
+208,2024/03/07 8:58:08 pm EET,Male,80.0,3rd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,3,0,Yes,Yes,Very close
+209,2024/03/07 9:01:08 pm EET,Female,78.0,1st Year,Economic & Management Sciences,80.0,Non-private accommodation ie. Res,No,1-3,2,5-8,1,0,Yes,Yes,Close
+210,2024/03/07 9:03:43 pm EET,Female,67.0,1st Year,Economic & Management Sciences,78.0,Private accommodation/ stay with family/friends,No,1-3,1,5-8,1,1,Yes,Yes,Very close
+211,2024/03/07 9:05:14 pm EET,Female,70.0,2nd Year,Economic & Management Sciences,76.0,Non-private accommodation ie. Res,No,1-3,2,3-5,1,0,No,Yes,Very close
+212,2024/03/07 9:05:47 pm EET,Female,67.0,2nd Year,Arts & Social Sciences,63.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,2,No,No,Close
+213,2024/03/07 9:07:53 pm EET,Male,85.0,3rd Year,Science,65.0,Non-private accommodation ie. Res,No,3-5,0,5-8,0,2,No,Yes,Close
+214,2024/03/07 9:09:03 pm EET,Female,73.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,2,No,No,Fair
+215,2024/03/07 9:11:04 pm EET,Male,84.0,2nd Year,Economic & Management Sciences,67.0,Private accommodation/ stay with family/friends,No,5-8,1,8+,1,0,No,Yes,Very close
+216,2024/03/07 9:11:21 pm EET,Male,76.0,1st Year,Economic & Management Sciences,59.0,Private accommodation/ stay with family/friends,No,1-3,2,8+,2,0,No,Yes,Very close
+217,2024/03/07 9:12:49 pm EET,Female,65.0,2nd Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,2,No,No,Close
+218,2024/03/07 9:14:18 pm EET,Male,87.0,3rd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",8+,2,8+,3,0,No,Yes,Very close
+219,2024/03/07 9:14:19 pm EET,Male,72.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,0,No,Yes,Close
+220,2024/03/07 9:14:34 pm EET,Female,78.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,5-8,2,5-8,4+,4+,Yes,Yes,Very close
+221,2024/03/07 9:16:56 pm EET,Male,80.0,2nd Year,Engineering,65.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",3-5,1,1-3,1,4+,Yes,No,Fair
+222,2024/03/07 9:18:49 pm EET,Female,67.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,1-3,3,5-8,2,0,No,Yes,Close
+223,2024/03/07 9:24:34 pm EET,Male,72.0,1st Year,Arts & Social Sciences,64.0,Private accommodation/ stay with family/friends,No,5-8,3,8+,0,0,No,Yes,Very close
+224,2024/03/07 9:24:43 pm EET,,,,,,,,,,,,,,,
+225,2024/03/07 9:25:57 pm EET,Female,75.0,2nd Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,No,5-8,0,1-3,0,0,Yes,Yes,Very close
+226,2024/03/07 9:27:52 pm EET,Female,82.0,2nd Year,Economic & Management Sciences,72.0,Private accommodation/ stay with family/friends,No,3-5,3,1-3,0,0,No,Yes,Close
+227,2024/03/07 9:27:53 pm EET,Female,94.0,,Engineering,,Private accommodation/ stay with family/friends,No,3-5,2,1-3,0,0,No,Yes,Very close
+228,2024/03/07 9:32:42 pm EET,Female,81.0,2nd Year,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,8+,2,3-5,1,0,No,Yes,Very close
+229,2024/03/07 9:40:47 pm EET,Male,82.0,3rd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,8+,1,3-5,0,0,Yes,Yes,Close
+230,2024/03/07 9:44:28 pm EET,Female,80.0,3rd Year,Education,74.0,Private accommodation/ stay with family/friends,No,5-8,2,1-3,0,0,No,Yes,Very close
+231,2024/03/07 9:55:22 pm EET,Female,65.0,3rd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,1,No,No,Very close
+232,2024/03/07 9:55:31 pm EET,,,,,,,,,,,,,,,
+233,2024/03/07 9:56:16 pm EET,Male,85.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,2,2,No,Yes,Very close
+234,2024/03/07 9:59:38 pm EET,Male,69.0,2nd Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,No,0,1,3-5,0,1,Yes,Yes,Very close
+235,2024/03/07 10:07:26 pm EET,Female,68.0,1st Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,0,0,0,1,No,No,Very close
+236,2024/03/07 10:07:30 pm EET,Male,72.0,1st Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,No,1-3,3,8+,2,0,No,Yes,Very close
+237,2024/03/07 10:08:29 pm EET,Male,84.0,1st Year,Science,92.0,Non-private accommodation ie. Res,No,3-5,Only weekends,8+,0,0,Yes,Yes,Very close
+238,2024/03/07 10:17:06 pm EET,Male,70.0,3rd Year,Economic & Management Sciences,53.0,Private accommodation/ stay with family/friends,No,3-5,1,8+,4+,4+,Yes,Yes,Very close
+239,2024/03/07 10:19:09 pm EET,Male,82.0,3rd Year,Economic & Management Sciences,77.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",8+,0,0,0,0,No,Yes,Close
+240,2024/03/07 10:20:49 pm EET,Male,84.0,4th Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",8+,Only weekends,5-8,0,4+,Yes,Yes,Close
+241,2024/03/07 10:25:16 pm EET,Female,70.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,1-3,1,0,Yes,Yes,Very close
+242,2024/03/07 10:25:45 pm EET,Female,78.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,No,5-8,3,5-8,0,4+,No,Yes,Very close
+243,2024/03/07 10:28:49 pm EET,Female,95.0,2nd Year,Engineering,87.6,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,No,Yes,Very close
+244,2024/03/07 10:31:42 pm EET,Female,75.0,1st Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,Only weekends,1-3,0,0,Yes,No,Close
+245,2024/03/07 10:31:47 pm EET,Female,80.0,4th Year,Economic & Management Sciences,55.0,Private accommodation/ stay with family/friends,No,3-5,1,1-3,1,4+,No,Yes,Very close
+246,2024/03/07 10:46:19 pm EET,Female,73.0,2nd Year,Science,,Private accommodation/ stay with family/friends,No,0,0,0,0,4+,No,Yes,Very close
+247,2024/03/07 10:53:04 pm EET,Male,86.0,1st Year,Science,73.0,Non-private accommodation ie. Res,No,8+,2,3-5,4+,0,No,Yes,Very close
+248,2024/03/07 10:53:04 pm EET,Male,84.0,1st Year,Science,76.0,Private accommodation/ stay with family/friends,No,8+,1,3-5,2,0,No,Yes,Very close
+249,2024/03/07 10:53:09 pm EET,Female,82.0,2nd Year,Arts & Social Sciences,68.0,Private accommodation/ stay with family/friends,No,3-5,1,8+,1,3,No,Yes,Very close
+250,2024/03/07 11:13:49 pm EET,Male,73.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,1,1-3,1,3,No,No,Close
+251,2024/03/07 11:18:02 pm EET,Female,75.0,1st Year,AgriSciences,63.0,Private accommodation/ stay with family/friends,No,8+,2,1-3,2,0,Yes,Yes,Close
+252,2024/03/07 11:19:26 pm EET,Male,74.0,1st Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,1,8+,1,0,No,Yes,Very close
+253,2024/03/07 11:19:53 pm EET,Male,83.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,0,No,Yes,Very close
+254,2024/03/07 11:19:54 pm EET,Male,34.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,1,0,No,Yes,Very close
+255,2024/03/07 11:20:06 pm EET,Male,68.0,1st Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,No,1-3,3,8+,4+,1,No,No,Very close
+256,2024/03/07 11:20:18 pm EET,Male,78.0,1st Year,Science,76.0,Private accommodation/ stay with family/friends,No,1-3,3,3-5,4+,0,No,No,Very close
+257,2024/03/07 11:20:21 pm EET,Male,74.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,0,2,5-8,3,0,No,Yes,Very close
+258,2024/03/07 11:20:23 pm EET,Male,79.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,3,8+,0,0,No,Yes,Very close
+259,2024/03/07 11:20:59 pm EET,Male,77.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,5-8,1,8+,2,0,No,Yes,Close
+260,2024/03/07 11:21:23 pm EET,Female,79.0,1st Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,No,8+,2,5-8,0,0,Yes,No,Fair
+261,2024/03/07 11:22:41 pm EET,Male,71.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,2,8+,1,0,Yes,Yes,Very close
+262,2024/03/07 11:23:21 pm EET,Male,78.0,1st Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,5-8,3,8+,2,2,No,Yes,Fair
+263,2024/03/07 11:25:48 pm EET,Male,86.4,1st Year,Engineering,57.0,Non-private accommodation ie. Res,No,1-3,2,8+,2,0,Yes,Yes,Very close
+264,2024/03/07 11:27:13 pm EET,Male,73.0,,Science,,Private accommodation/ stay with family/friends,No,3-5,Only weekends,8+,0,0,No,Yes,Very close
+265,2024/03/07 11:30:11 pm EET,Male,83.0,,Engineering,,Private accommodation/ stay with family/friends,No,8+,1,5-8,1,0,No,Yes,Very close
+266,2024/03/07 11:30:21 pm EET,Male,82.0,Postgraduate,Engineering,62.0,Private accommodation/ stay with family/friends,No,8+,1,8+,0,1,Yes,Yes,Very close
+267,2024/03/07 11:30:49 pm EET,Male,,,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,,Only weekends,5-8,2,0,Yes,Yes,Very close
+268,2024/03/07 11:31:34 pm EET,Male,60.0,1st Year,Economic & Management Sciences,75.0,Private accommodation/ stay with family/friends,No,1-3,1,5-8,0,0,Yes,Yes,Very close
+269,2024/03/07 11:35:55 pm EET,Male,84.0,1st Year,Science,69.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,2,3-5,0,0,No,Yes,Very close
+270,2024/03/07 11:37:28 pm EET,Male,85.0,,Engineering,,Private accommodation/ stay with family/friends,No,1-3,2,3-5,1,0,Yes,No,Fair
+271,2024/03/07 11:37:29 pm EET,Male,75.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,3-5,4+,5-8,4+,0,Yes,Yes,Close
+272,2024/03/07 11:42:16 pm EET,Male,81.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,8+,1,8+,2,3,Yes,Yes,Very close
+273,2024/03/07 11:43:48 pm EET,Female,85.0,2nd Year,Science,76.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,1,2,No,Yes,Very close
+274,2024/03/07 11:46:09 pm EET,Male,95.5,Postgraduate,Engineering,65.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,3,8+,0,0,Yes,Yes,Fair
+275,2024/03/07 11:48:05 pm EET,Male,80.0,,Engineering,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",8+,Only weekends,3-5,0,0,No,Yes,Very close
+276,2024/03/07 11:56:04 pm EET,Male,74.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,Only weekends,8+,2,0,Yes,Yes,Close
+277,2024/03/07 11:57:33 pm EET,Male,76.0,1st Year,Science,60.0,Private accommodation/ stay with family/friends,No,1-3,1,8+,1,1,No,Yes,Close
+278,2024/03/08 12:00:27 am EET,Male,87.0,1st Year,Economic & Management Sciences,72.0,Non-private accommodation ie. Res,No,5-8,1,5-8,1,0,No,Yes,Very close
+279,2024/03/08 12:25:41 am EET,Female,68.0,2nd Year,Arts & Social Sciences,69.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,Yes,Yes,Fair
+280,2024/03/08 1:55:49 am EET,Male,74.0,1st Year,Economic & Management Sciences,,Non-private accommodation ie. Res,No,3-5,2,5-8,4+,0,No,Yes,Close
+281,2024/03/08 4:50:24 am EET,Male,81.0,,Engineering,,Private accommodation/ stay with family/friends,No,5-8,1,3-5,0,0,No,Yes,Very close
+282,2024/03/08 5:47:58 am EET,Female,65.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,Only weekends,5-8,0,0,Yes,Yes,Very close
+283,2024/03/08 6:30:51 am EET,Male,72.0,3rd Year,Law,68.0,Private accommodation/ stay with family/friends,No,8+,3,5-8,0,0,Yes,Yes,Close
+284,2024/03/08 6:32:27 am EET,Male,76.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,8+,3,5-8,2,1,Yes,Yes,Close
+285,2024/03/08 6:56:49 am EET,Male,75.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,2,1-3,0,0,No,Yes,Close
+286,2024/03/08 7:08:19 am EET,Female,71.0,1st Year,Education,67.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,2,5-8,3,1,No,Yes,Very close
+287,2024/03/08 7:18:34 am EET,Female,72.0,1st Year,AgriSciences,77.0,Private accommodation/ stay with family/friends,No,3-5,1,3-5,0,0,Yes,Yes,Very close
+288,2024/03/08 7:28:55 am EET,Male,80.0,,Arts & Social Sciences,,Private accommodation/ stay with family/friends,No,3-5,1,8+,0,0,No,Yes,Close
+289,2024/03/08 7:39:45 am EET,Female,78.0,2nd Year,Arts & Social Sciences,83.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,No,Yes,Very close
+290,2024/03/08 8:07:23 am EET,Female,74.0,1st Year,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,3,3-5,0,0,Yes,Yes,Very close
+291,2024/03/08 8:11:39 am EET,Female,87.0,2nd Year,Science,61.0,Private accommodation/ stay with family/friends,No,8+,3,1-3,0,1,Yes,Yes,Very close
+292,2024/03/08 8:27:36 am EET,Female,76.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+293,2024/03/08 8:31:40 am EET,Male,76.0,2nd Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,3-5,3,5-8,0,2,No,Yes,Very close
+294,2024/03/08 8:34:42 am EET,Female,94.0,2nd Year,Economic & Management Sciences,67.0,Non-private accommodation ie. Res,No,8+,Only weekends,1-3,0,1,No,Yes,Very close
+295,2024/03/08 8:35:05 am EET,Female,78.0,1st Year,Engineering,58.0,Private accommodation/ stay with family/friends,No,5-8,2,3-5,2,0,No,Yes,Very close
+296,2024/03/08 8:47:37 am EET,Male,65.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,3,5-8,1,0,No,Yes,Very close
+297,2024/03/08 8:58:27 am EET,Female,84.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,3,0,Yes,Yes,Close
+298,2024/03/08 9:12:18 am EET,Female,83.0,,Science,,Private accommodation/ stay with family/friends,No,8+,1,3-5,0,0,No,Yes,Very close
+299,2024/03/08 9:15:32 am EET,Female,79.0,2nd Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,No,1-3,1,1-3,0,0,Yes,Yes,Close
+300,2024/03/08 9:19:29 am EET,Male,76.0,,Arts & Social Sciences,,,No,1-3,1,8+,1,0,Yes,Yes,Very close
+301,2024/03/08 9:30:31 am EET,Male,80.0,2nd Year,Science,57.0,Private accommodation/ stay with family/friends,No,3-5,1,5-8,1,1,No,Yes,Close
+302,2024/03/08 9:41:55 am EET,Male,79.0,,Economic & Management Sciences,,,No,5-8,3,5-8,2,0,No,Yes,Close
+303,2024/03/08 9:50:48 am EET,Male,67.0,1st Year,Economic & Management Sciences,30.0,Private accommodation/ stay with family/friends,No,1-3,4+,8+,4+,4+,No,Yes,Very close
+304,2024/03/08 10:01:13 am EET,Female,76.0,1st Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,1-3,2,8+,1,4+,No,Yes,Very close
+305,2024/03/08 10:06:03 am EET,Male,72.0,1st Year,Economic & Management Sciences,65.0,Private accommodation/ stay with family/friends,No,5-8,1,8+,0,0,Yes,Yes,Fair
+306,2024/03/08 10:15:05 am EET,Male,73.0,1st Year,Arts & Social Sciences,70.0,Private accommodation/ stay with family/friends,No,3-5,2,5-8,1,0,No,Yes,Very close
+307,2024/03/08 10:32:14 am EET,Male,78.0,1st Year,Economic & Management Sciences,83.0,Private accommodation/ stay with family/friends,No,1-3,3,8+,2,0,Yes,Yes,Very close
+308,2024/03/08 10:45:42 am EET,Male,84.0,,Economic & Management Sciences,,Non-private accommodation ie. Res,No,5-8,3,8+,4+,0,No,Yes,Very close
+309,2024/03/08 10:52:45 am EET,Male,82.0,1st Year,Engineering,73.0,Private accommodation/ stay with family/friends,No,8+,2,3-5,0,0,No,Yes,Very close
+310,2024/03/08 10:54:38 am EET,Female,75.0,1st Year,Economic & Management Sciences,89.0,Private accommodation/ stay with family/friends,No,5-8,0,3-5,0,0,Yes,Yes,Very close
+311,2024/03/08 11:03:19 am EET,Male,67.0,2nd Year,Economic & Management Sciences,81.0,Private accommodation/ stay with family/friends,No,8+,3,5-8,1,1,No,Yes,Very close
+312,2024/03/08 11:20:55 am EET,Female,78.0,2nd Year,Economic & Management Sciences,71.0,Private accommodation/ stay with family/friends,No,5-8,2,3-5,2,0,No,Yes,Fair
+313,2024/03/08 11:30:52 am EET,Female,79.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,No,1-3,2,3-5,0,0,Yes,Yes,Very close
+314,2024/03/08 11:46:01 am EET,Female,89.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,3-5,3,3-5,1,0,Yes,Yes,Very close
+315,2024/03/08 12:08:02 pm EET,Female,,1st Year,Economic & Management Sciences,,Non-private accommodation ie. Res,No,5-8,2,3-5,0,0,Yes,Yes,Very close
+316,2024/03/08 12:28:48 pm EET,Male,73.0,2nd Year,Medicine and Health Services,62.0,Private accommodation/ stay with family/friends,No,3-5,1,5-8,1,0,No,Yes,Close
+317,2024/03/08 12:54:48 pm EET,Male,85.0,2nd Year,Economic & Management Sciences,58.0,Non-private accommodation ie. Res,No,8+,1,8+,2,1,No,Yes,Close
+318,2024/03/08 1:07:58 pm EET,Male,72.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,No,0,1,3-5,0,4+,No,Yes,Fair
+319,2024/03/08 1:34:30 pm EET,Female,83.0,2nd Year,Arts & Social Sciences,72.0,Private accommodation/ stay with family/friends,No,1-3,1,5-8,2,0,No,Yes,Very close
+320,2024/03/08 2:08:49 pm EET,Male,83.0,2nd Year,Economic & Management Sciences,55.0,Non-private accommodation ie. Res,No,3-5,2,3-5,2,2,Yes,Yes,Very close
+321,2024/03/08 2:25:01 pm EET,Female,78.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",1-3,1,3-5,1,1,Yes,Yes,Close
+322,2024/03/08 2:45:33 pm EET,Male,66.0,3rd Year,AgriSciences,61.0,Private accommodation/ stay with family/friends,No,1-3,2,8+,1,2,No,Yes,Very close
+323,2024/03/08 3:06:40 pm EET,Male,80.0,1st Year,Science,55.0,Private accommodation/ stay with family/friends,No,3-5,2,8+,3,1,Yes,Yes,Very close
+324,2024/03/08 3:32:58 pm EET,Female,90.0,3rd Year,Economic & Management Sciences,73.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,0,0,Yes,Yes,Very close
+325,2024/03/08 4:16:40 pm EET,Male,71.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",3-5,2,8+,1,0,Yes,Yes,Very close
+326,2024/03/08 4:29:09 pm EET,Male,82.0,3rd Year,Engineering,74.0,Private accommodation/ stay with family/friends,No,8+,0,5-8,0,0,Yes,Yes,Close
+327,2024/03/08 4:33:50 pm EET,Male,77.0,3rd Year,Law,63.0,Private accommodation/ stay with family/friends,No,3-5,1,8+,3,1,No,Yes,Close
+328,2024/03/08 4:34:38 pm EET,Female,83.0,3rd Year,Engineering,61.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,1,1,Yes,Yes,Very close
+329,2024/03/08 4:35:19 pm EET,Male,76.0,2nd Year,Science,58.0,Non-private accommodation ie. Res,No,3-5,1,5-8,2,0,No,Yes,Very close
+330,2024/03/08 4:36:55 pm EET,Male,77.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,No,5-8,2,8+,2,2,,No,Close
+331,2024/03/08 4:37:51 pm EET,Female,76.0,3rd Year,Science,63.0,Private accommodation/ stay with family/friends,No,1-3,3,1-3,0,0,Yes,Yes,Very close
+332,2024/03/08 4:38:33 pm EET,Female,73.0,1st Year,Engineering,59.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,0,0,Yes,Yes,Very close
+333,2024/03/08 4:39:53 pm EET,Male,74.0,2nd Year,Economic & Management Sciences,56.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",8+,1,1-3,1,0,Yes,No,Fair
+334,2024/03/08 4:40:34 pm EET,Male,68.0,1st Year,Arts & Social Sciences,54.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,2,2,No,No,Close
+335,2024/03/08 5:50:07 pm EET,Female,55.0,2nd Year,Economic & Management Sciences,61.0,Private accommodation/ stay with family/friends,No,5-8,0,0,0,4+,No,,Fair
+336,2024/03/08 6:43:44 pm EET,Male,80.0,2nd Year,Law,60.0,Non-private accommodation ie. Res,"Yes (NSFAS, etc...)",1-3,1,5-8,0,3,Yes,Yes,Fair
+337,2024/03/08 6:54:05 pm EET,Male,68.0,1st Year,AgriSciences,,,No,8+,Only weekends,8+,4+,4+,No,Yes,Very close
+338,2024/03/08 7:10:07 pm EET,Female,65.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,0,4+,8+,0,0,No,Yes,Very close
+339,2024/03/08 9:37:48 pm EET,Male,75.0,3rd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,No,Yes,Very close
+340,2024/03/09 9:53:21 am EET,Male,76.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,1-3,3,8+,2,0,Yes,No,Very close
+341,2024/03/09 12:11:10 pm EET,Male,71.0,1st Year,Economic & Management Sciences,77.0,Private accommodation/ stay with family/friends,No,3-5,2,3-5,1,0,No,Yes,Very close
+342,2024/03/09 12:35:28 pm EET,Female,85.0,2nd Year,Engineering,60.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,5-8,0,2,No,Yes,Close
+343,2024/03/09 3:06:37 pm EET,Female,78.0,,Economic & Management Sciences,,,,8+,1,1-3,0,0,Yes,Yes,Close
+344,2024/03/09 3:12:44 pm EET,Male,70.0,1st Year,Economic & Management Sciences,76.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,1,0,Yes,No,Very close
+345,2024/03/09 4:31:38 pm EET,Female,74.0,2nd Year,Medicine and Health Services,69.7,Private accommodation/ stay with family/friends,No,5-8,3,8+,2,0,Yes,Yes,Very close
+346,2024/03/09 4:41:44 pm EET,Male,86.0,2nd Year,Economic & Management Sciences,85.0,Private accommodation/ stay with family/friends,No,0,1,3-5,0,2,Yes,Yes,Fair
+347,2024/03/09 9:57:06 pm EET,Male,83.0,2nd Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,8+,3,8+,2,1,Yes,Yes,Close
+348,2024/03/10 12:56:37 pm EET,Male,78.0,2nd Year,Economic & Management Sciences,63.0,Private accommodation/ stay with family/friends,No,8+,1,5-8,0,3,No,Yes,Close
+349,2024/03/10 12:58:47 pm EET,Male,83.0,2nd Year,Economic & Management Sciences,63.0,Non-private accommodation ie. Res,No,1-3,4+,3-5,1,0,No,No,Very close
+350,2024/03/10 1:02:07 pm EET,Male,78.0,3rd Year,Economic & Management Sciences,66.0,Private accommodation/ stay with family/friends,No,8+,2,0,0,1,No,Yes,Fair
+351,2024/03/10 2:48:41 pm EET,Female,76.0,,Economic & Management Sciences,60.0,,No,3-5,3,3-5,2,0,Yes,Yes,Close
+352,2024/03/10 6:14:48 pm EET,Female,86.0,,Engineering,,,No,3-5,1,8+,0,0,No,Yes,Very close
+353,2024/03/10 8:03:18 pm EET,Male,78.0,1st Year,Economic & Management Sciences,85.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,1,0,No,Yes,Very close
+354,2024/03/10 8:08:34 pm EET,Male,75.0,3rd Year,Engineering,59.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,3-5,0,2,Yes,No,Close
+355,2024/03/10 11:07:34 pm EET,Female,87.0,2nd Year,Economic & Management Sciences,74.0,Non-private accommodation ie. Res,No,3-5,2,1-3,0,0,No,No,Fair
+356,2024/03/11 1:03:10 pm EET,Male,77.0,1st Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,0,4+,1-3,0,0,Yes,Yes,Very close
+357,2024/03/11 2:06:31 pm EET,Male,85.0,Postgraduate,AgriSciences,78.0,Private accommodation/ stay with family/friends,No,8+,3,8+,0,0,Yes,Yes,Very close
+358,2024/03/11 2:06:41 pm EET,Male,60.0,2nd Year,Arts & Social Sciences,50.0,Private accommodation/ stay with family/friends,No,3-5,2,5-8,0,3,No,Yes,Fair
+359,2024/03/11 2:06:54 pm EET,Female,80.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,0,No,Yes,Very close
+360,2024/03/11 2:06:55 pm EET,Male,77.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,5-8,3,5-8,0,0,No,Yes,Very close
+361,2024/03/11 2:07:05 pm EET,Male,80.0,2nd Year,Science,50.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,0,3,No,No,Close
+362,2024/03/11 2:07:20 pm EET,Female,80.0,3rd Year,Law,75.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,1-3,1,1,No,No,Fair
+363,2024/03/11 2:07:27 pm EET,Female,76.0,,Science,,Private accommodation/ stay with family/friends,No,3-5,1,3-5,0,0,No,Yes,Very close
+364,2024/03/11 2:07:33 pm EET,Male,75.0,1st Year,Science,63.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,3-5,0,0,No,Yes,Very close
+365,2024/03/11 2:07:35 pm EET,Male,68.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,3,8+,0,0,Yes,Yes,Very close
+366,2024/03/11 2:07:50 pm EET,Male,76.0,1st Year,Science,56.0,Private accommodation/ stay with family/friends,No,1-3,0,0,0,1,No,Yes,Very close
+367,2024/03/11 2:08:39 pm EET,Female,82.0,,,,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,0,Yes,Yes,Very close
+368,2024/03/11 2:09:11 pm EET,Female,83.0,1st Year,Arts & Social Sciences,61.0,Private accommodation/ stay with family/friends,No,8+,3,3-5,0,0,No,Yes,Very close
+369,2024/03/11 2:09:53 pm EET,Male,80.0,1st Year,Arts & Social Sciences,74.0,Private accommodation/ stay with family/friends,No,3-5,2,5-8,1,0,Yes,Yes,Very close
+370,2024/03/11 2:09:56 pm EET,Male,78.0,,Science,,Private accommodation/ stay with family/friends,No,1-3,4+,3-5,3,0,Yes,Yes,Very close
+371,2024/03/11 2:10:29 pm EET,Female,70.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,No,Yes,Close
+372,2024/03/11 2:11:49 pm EET,Male,86.0,2nd Year,Economic & Management Sciences,69.0,Private accommodation/ stay with family/friends,No,1-3,2,8+,2,0,Yes,Yes,Very close
+373,2024/03/11 2:13:26 pm EET,Female,72.0,,Education,,Private accommodation/ stay with family/friends,No,8+,Only weekends,3-5,0,0,Yes,Yes,Very close
+374,2024/03/11 2:14:19 pm EET,Female,88.0,,Law,,,No,1-3,3,8+,2,0,No,Yes,Close
+375,2024/03/11 2:14:58 pm EET,Female,91.21,,Science,,Private accommodation/ stay with family/friends,No,1-3,1,1-3,3,0,No,Yes,Very close
+376,2024/03/11 2:16:10 pm EET,Female,85.0,1st Year,Medicine and Health Services,60.0,Private accommodation/ stay with family/friends,No,1-3,2,3-5,3,0,Yes,Yes,Very close
+377,2024/03/11 2:17:24 pm EET,Male,79.0,1st Year,Economic & Management Sciences,83.0,Private accommodation/ stay with family/friends,No,8+,3,1-3,0,0,Yes,Yes,Very close
+378,2024/03/11 2:17:42 pm EET,Male,70.0,2nd Year,Economic & Management Sciences,56.0,Private accommodation/ stay with family/friends,No,3-5,4+,8+,2,3,No,Yes,Very close
+379,2024/03/11 2:19:21 pm EET,Male,68.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,3,3-5,1,0,No,Yes,Very close
+380,2024/03/11 2:39:34 pm EET,Female,75.0,1st Year,Arts & Social Sciences,65.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,3-5,0,2,Yes,Yes,Very close
+381,2024/03/11 2:49:54 pm EET,Female,78.0,2nd Year,Medicine and Health Services,79.0,Private accommodation/ stay with family/friends,No,1-3,1,1-3,0,0,Yes,Yes,Very close
+382,2024/03/11 2:51:31 pm EET,Female,76.0,,Arts & Social Sciences,,,,3-5,1,0,0,0,Yes,Yes,Very close
+383,2024/03/11 2:56:07 pm EET,Male,76.0,2nd Year,Economic & Management Sciences,64.0,Private accommodation/ stay with family/friends,No,3-5,1,5-8,1,1,No,Yes,Very close
+384,2024/03/11 2:59:36 pm EET,Male,76.0,2nd Year,Economic & Management Sciences,57.0,Private accommodation/ stay with family/friends,No,8+,1,1-3,0,0,No,Yes,Very close
+385,2024/03/11 3:00:04 pm EET,Female,85.0,1st Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,No,1-3,3,3-5,2,0,Yes,Yes,Close
+386,2024/03/11 3:08:15 pm EET,Male,96.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,8+,Only weekends,0,0,0,No,No,Very close
+387,2024/03/11 3:12:20 pm EET,Female,86.0,1st Year,Science,71.0,Private accommodation/ stay with family/friends,No,8+,1,0,0,0,Yes,Yes,Very close
+388,2024/03/11 3:52:53 pm EET,Male,78.0,3rd Year,Law,66.0,Private accommodation/ stay with family/friends,No,0,1,1-3,1,0,Yes,Yes,Close
+389,2024/03/11 3:53:40 pm EET,Male,75.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,2,8+,4+,0,Yes,Yes,Very close
+390,2024/03/11 3:55:29 pm EET,Male,74.0,,Science,,Private accommodation/ stay with family/friends,No,1-3,0,0,0,0,No,Yes,Very close
+391,2024/03/11 4:11:36 pm EET,Male,75.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,3-5,1,1-3,0,0,Yes,Yes,Fair
+392,2024/03/11 4:16:20 pm EET,Male,64.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,0,4+,8+,0,1,Yes,Yes,Very close
+393,2024/03/11 4:16:58 pm EET,Female,78.0,1st Year,,51.0,Private accommodation/ stay with family/friends,No,1-3,2,5-8,1,0,No,Yes,Close
+394,2024/03/11 4:26:13 pm EET,Male,76.0,1st Year,Science,58.0,Private accommodation/ stay with family/friends,No,1-3,2,8+,1,1,No,Yes,Close
+395,2024/03/11 4:40:28 pm EET,Male,75.0,2nd Year,Economic & Management Sciences,80.0,Private accommodation/ stay with family/friends,No,0,4+,8+,4+,0,No,No,Very close
+396,2024/03/11 4:41:08 pm EET,Female,78.0,2nd Year,Medicine and Health Services,74.0,Private accommodation/ stay with family/friends,No,1-3,Only weekends,1-3,0,0,No,Yes,Very close
+397,2024/03/11 5:11:29 pm EET,Male,86.0,1st Year,Economic & Management Sciences,70.0,Private accommodation/ stay with family/friends,No,5-8,2,3-5,2,0,Yes,Yes,Fair
+398,2024/03/11 5:45:20 pm EET,Female,74.0,2nd Year,Economic & Management Sciences,60.0,Private accommodation/ stay with family/friends,No,5-8,Only weekends,1-3,0,3,No,No,Close
+399,2024/03/11 6:06:08 pm EET,Female,,,Engineering,,Private accommodation/ stay with family/friends,No,3-5,Only weekends,1-3,0,0,No,Yes,Very close
+400,2024/03/11 7:41:43 pm EET,Male,85.0,,Arts & Social Sciences,,,No,3-5,Only weekends,3-5,0,0,No,Yes,Very close
+401,2024/03/12 11:05:33 am EET,Female,74.0,,Science,,Private accommodation/ stay with family/friends,No,3-5,3,1-3,0,0,No,Yes,Close
+402,2024/03/12 3:26:14 pm EET,Female,73.0,2nd Year,Economic & Management Sciences,58.0,Private accommodation/ stay with family/friends,"Yes (NSFAS, etc...)",5-8,1,8+,0,0,Yes,Yes,Very close
+403,2024/03/13 10:32:19 pm EET,Female,86.0,1st Year,,,Private accommodation/ stay with family/friends,No,5-8,2,3-5,1,0,No,Yes,Very close
+404,2024/03/13 10:32:27 pm EET,Male,85.0,,Economic & Management Sciences,,Private accommodation/ stay with family/friends,No,1-3,4+,5-8,4+,0,No,Yes,Close
+405,2024/03/16 10:30:36 pm EET,Female,80.0,1st Year,,63.0,Private accommodation/ stay with family/friends,No,3-5,Only weekends,3-5,1,0,No,No,Close
